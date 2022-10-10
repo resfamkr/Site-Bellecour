@@ -8,7 +8,6 @@
 </head>
 <body>
     <p>Coucou c'est moi Ali.</p>
-    <p>J'ai une ptite bite</p>
 
 
     <p>Coucou c'est un test mon reuf</p>
